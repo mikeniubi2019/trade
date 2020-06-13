@@ -1,0 +1,6 @@
+com\mike\trade\pojo\serviceEnum\TradeType.class
+com\mike\trade\pojo\servicePojo\Request.class
+com\mike\trade\pojo\serviceEnum\StatuType.class
+com\mike\trade\pojo\serviceEnum\TradeName.class
+com\mike\trade\pojo\servicePojo\Response.class
+com\mike\trade\pojo\serviceEnum\ActionType.class
